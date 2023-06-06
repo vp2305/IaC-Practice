@@ -1,0 +1,6 @@
+name: lab1-final
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal Python Pulumi program
